@@ -1,13 +1,17 @@
-=Starbound Mods==
+Starbound Mods
+==============
 
-==healingfactor==
+healingfactor
+-------------
 
 Gives you a regenerative healing factor over time.
 
-==preservative==
+preservative
+------------
 
 Keeps food from going bad
 
-==wristslap==
+wristslap
+---------
 
 Eliminates pixel-loss on death
